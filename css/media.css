@@ -50,16 +50,10 @@
     margin-left: 0;
   }
 }
-@media (max-width: 992px) {.sec2.container {
-    flex-direction: column;
-    align-items: center;
-    display: flex;
-  }
-}
 @media (max-width: 600px) {.contact-form {
     align-items: center;
   }.contact-form input,.contact-form textarea,.sen {
     width: 100%!important;
-    margin: 10px 0px;
+    margin: 10px auto;
   }
 }
